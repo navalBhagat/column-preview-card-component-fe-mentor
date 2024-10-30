@@ -20,12 +20,12 @@ Users should be able to:
 
 ### Screenshot
 
-![TODO](./screenshot.jpg)
+![](./public/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [GitHub - TODO](https://your-solution-url.com)
-- Live Site URL: [Vercel - TODO](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/navalBhagat/column-preview-card-component-fe-mentor)
+- Live Site URL: [Vercel](https://column-preview-card-component-fe-mentor.vercel.app/)
 
 ## Author
 - Frontend Mentor - [@navalBhagat](https://www.frontendmentor.io/profile/navalBhagat)
